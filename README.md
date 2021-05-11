@@ -7,7 +7,7 @@ If I ain't coding, I'm either eating 😂 or trying to master a new skill in Cal
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Volleyball ⛹🏻‍♂️ and 
+- ⚡ Fun fact: I love to play Volleyball ⛹🏻‍♂️ and fix bugs 😜
 - 📝 [Resume](https://https://drive.google.com/file/d/18IAh94YSKYOF0p_YePrp9bLnNiWnS1tX/view?usp=sharing)
 
 ### Connect with me:
