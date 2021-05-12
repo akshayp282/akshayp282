@@ -5,10 +5,10 @@ If I ain't coding, I'm either eating 😂 or trying to master a new skill in Cal
 #### Some things about me 😁 : 
 
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
+- 👯 I’m looking to collaborate with other developers and work on new projects
 - 🥅 2021 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to play Volleyball ⛹🏻‍♂️ and fix bugs 😜
-- 📝 [Resume](https://https://drive.google.com/file/d/18IAh94YSKYOF0p_YePrp9bLnNiWnS1tX/view?usp=sharing)
+- 📝 [Resume](https://drive.google.com/file/d/1hPL3G5ssVh6bt-7-j6EpKeJ26tfMBjLZ/view?usp=sharing)
 
 ### Connect with me:
 <a href="https://www.facebook.com/Imapv/">
