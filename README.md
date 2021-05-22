@@ -50,5 +50,5 @@ If I ain't coding, I'm either eating 😂 or trying to master a new skill in Cal
 ---
   <summary >:zap: GitHub Stats</summary><br>
 
-  <p align="center"> <img alt="Akshay's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akshayp282&show_icons=true&theme=gotham" />
+  <p align="center"> <img alt="Akshay's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=akshayp282&show_icons=true&theme=tokyonight" />
 
